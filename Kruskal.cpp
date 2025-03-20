@@ -1,2 +1,2 @@
 #include <iostream>
-using namepsace std;
+using namespace std;
